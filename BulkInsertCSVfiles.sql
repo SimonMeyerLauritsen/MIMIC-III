@@ -1,4 +1,4 @@
-CREATE PROCEDURE [dbo].[BulkInsertSCVfiles]
+CREATE PROCEDURE [dbo].[BulkInsertCSVfiles]
 AS
 
 declare @tableName nvarchar(50)
